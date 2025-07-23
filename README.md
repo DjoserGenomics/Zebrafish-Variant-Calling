@@ -11,7 +11,7 @@ This project explores a basic variant calling workflow using zebrafish whole gen
 The pipeline was implemented in a Jupyter Notebook and run primarily on [Galaxy](https://usegalaxy.org) and [Galaxy EU](https://usegalaxy.eu), combining both graphical workflows and command-line tools.
 
 ### 🛠️ Tools & Steps
-- 📥 **Data download** from ENA (zebrafish)
+- 📥 **Data download** from ENA (PRJNA630223)
 - 🔬 **Quality check** with FastQC
 - ✂️ **Read trimming** using Fastp
 - 🎯 **Alignment** with Minimap2
